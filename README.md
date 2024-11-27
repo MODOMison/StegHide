@@ -2,7 +2,9 @@
 encrypt message into images. 
 
 currently listed as Open-gl (Open good luck) it will work but u need to install the dependencies 
+
 -suggested ask chat gpt if any error messages durring first build up.
+
 -then re-run the code in python IDLE for each useage
 
 
