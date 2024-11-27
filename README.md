@@ -12,3 +12,4 @@ one good and or different thing about this steg-hide is it does not reveal the m
 traditionally a separate file will "appear" in the directory which can kinda get nicked out, now no file will exists 
 
 
+![Screenshot 2024-11-26 171009](https://github.com/user-attachments/assets/a6947371-c491-4769-b0f7-2b130cfbca91)
