@@ -1,5 +1,5 @@
 # StegHide
-encrypt message into images. 
+encrypt message into images 
 
 currently listed as Open-gl (Open good luck) it will work but u need to install the dependencies 
 
